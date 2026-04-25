@@ -1,0 +1,10 @@
+{
+  "commands.wgsplicer.not_ready": "World Generation Splicer stats not initialized",
+  "commands.wgsplicer.export.disabled": "Export disabled in config",
+  "commands.wgsplicer.export.started": "Export started: %s",
+  "commands.wgsplicer.export.done": "Export complete: %s (%s rows)",
+  "commands.wgsplicer.export.failed": "Export failed: %s",
+  "commands.wgsplicer.reset.done": "World Generation Splicer stats cleared",
+  "commands.wgsplicer.scanchunk.queued": "Queued chunk %s,%s in %s",
+  "commands.wgsplicer.scanradius.queued": "Queued %s chunks (radius %s, est %s ticks)"
+}
